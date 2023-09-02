@@ -9,6 +9,7 @@ require("lazy-setup")
 require("lsp-setup")
 
 -- plugin keymaps
+require("globals.keymaps.harpoon")
 require("globals.keymaps.lsp")
 require("globals.keymaps.nvim-tree")
 require("globals.keymaps.telescope")
