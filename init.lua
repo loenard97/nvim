@@ -13,3 +13,6 @@ require("globals.keymaps.harpoon")
 require("globals.keymaps.lsp")
 require("globals.keymaps.nvim-tree")
 require("globals.keymaps.telescope")
+
+-- colors
+require("colors")

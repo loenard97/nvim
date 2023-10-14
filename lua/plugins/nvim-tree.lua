@@ -1,7 +1,7 @@
 return {
   "nvim-tree/nvim-tree.lua",
   opts = {
-    sort_by = "case_insensitive",
+    sort_by = "case_sensitive",
     view = {
         width = 35,
     },
